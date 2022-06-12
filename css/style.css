@@ -164,3 +164,36 @@ html, body{
     font-size: 16px;
     color: rgb(51, 51, 171);
 }
+
+/* Images Style*/
+img {
+    /*float: left;*/
+    display: inline-block;
+}
+
+.img-right{
+    width: 32%;
+    height: auto;
+    margin: auto 5px;
+    border: 2px solid rgb(211, 201, 201);
+    border-radius: 5px;
+    box-shadow: 1px 0 10px rgb(0,0,0);
+}
+
+.img-mid{
+    width: 32%;
+    height: auto;
+    margin: auto 5px;
+    border: 2px solid rgb(211, 201, 201);
+    border-radius: 5px;
+    box-shadow: 1px 0 10px rgb(0,0,0);
+}
+
+.img-left{
+    width: 32%;
+    height: auto;
+    margin: auto 5px;
+    border: 2px solid rgb(211, 201, 201);
+    border-radius: 5px;
+    box-shadow: 1px 0 10px rgb(0,0,0);
+}
